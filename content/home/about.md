@@ -17,31 +17,8 @@ weight = 5
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "Ph.D. in Computer Engineering"
-  #institution = "Purdue University, West Lafayette, IN; David S. Ebert (PhD advisor); Dissertation: \"Exploring Multivariate Data Through the Application of Visual Analytics\""
   institution = "Purdue University, West Lafayette, IN"
   year = "Dec, 2009"
-
-#[[education.courses]]
-#  course = "M.S. in Computer Engineering"
-#  # institution = "Purdue University, West Lafayette, IN; David S. Ebert (MS advisor); Thesis: \"Exploring the Value of Adding Haptic and Stereoscopic Rendering to Volume Modeling\""
-#  institution = "Purdue University, West Lafayette, IN"
-#  year = "Aug, 2004"
-
-#[[education.courses]]
-#  course = "B.S. in Computer Science"
-#  institution = "University of Missouri, Columbia, MO"
-#  year = "Dec, 2001"
-
-#[[education.courses]]
-#  course = "B.S. in Computer Engineering"
-#  institution = "University of Missouri, Columbia, MO"
-#  year = "Dec, 2001"
-
-#[[education.courses]]
-#  course = "B.S. in Electrical Engineering"
-#  institution = "University of Missouri, Columbia, MO"
- # year = "Dec, 2001"
- 
 +++
 
 # Biography
