@@ -302,7 +302,7 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "Publications"
-  url = "/pub_browser.html"
+  url = "http://vader.lab.asu.edu/#/publication/"
   weight = 2
 
 [[menu.main]]
