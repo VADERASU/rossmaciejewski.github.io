@@ -26,6 +26,15 @@ date_format = "January 2006"
   date_start = "2017-08-01"
   date_end = ""
   description = """"""
+  
+  [[experience]]
+  title = "Professor"
+  company = "School of Computing and Augmented Intelligence, Arizona State University"
+  company_url = ""
+  location = "Tempe, AZ"
+  date_start = "2021-08-01"
+  date_end = ""
+  description = """"""
 
 [[experience]]
   title = "Associate Professor"
@@ -33,7 +42,7 @@ date_format = "January 2006"
   company_url = ""
   location = "Tempe, AZ"
   date_start = "2017-08-01"
-  date_end = ""
+  date_end = "2021-07-31"
   description = """"""
 
 [[experience]]
